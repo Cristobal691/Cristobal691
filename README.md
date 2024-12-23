@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data leak worksheet](https://docs.google.com/document/d/1PJAni0TNkSnoCAdgQTmhzwwTDFCeoUw4eY8vWlj399w/edit?tab=t.0#heading=h.u3iqqzpk1ycv)
 
 
 <h2> 📄 Certifications</h2>
