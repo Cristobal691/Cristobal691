@@ -1,9 +1,5 @@
 <h1>Hi, I'm Cristobal! <br/><a href=/">Aspiring Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-  - [Data leak worksheet](https://docs.google.com/document/d/1PJAni0TNkSnoCAdgQTmhzwwTDFCeoUw4eY8vWlj399w/edit?tab=t.0#heading=h.u3iqqzpk1ycv)
-
 
 <h2> 📄 Certifications</h2>
 
